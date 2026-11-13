@@ -1,15 +1,15 @@
-const name = "Anna"
+const name = 'Anna';
 
 let age;
-age =36;
+age = 36;
 
 console.log(name);
 console.log(age);
 
-const isAdult = confirm(`Are you 18 years old?`);
+const isAdult = confirm('Are you 18 years old?');
 console.log(isAdult);
 
-const favoriteNumber = prompt(`What is your favorite number?`);
+const favoriteNumber = prompt('What is your favorite number?');
 console.log(favoriteNumber);
 
 console.log(typeof name);
